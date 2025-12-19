@@ -36,7 +36,7 @@ int main()
         }
         break;
     default:
-        std::cout << "Invalid operation" << std::endl;
+        std::cout << "Invalid operation :(" << std::endl;
     }
 
     return 0;
